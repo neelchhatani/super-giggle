@@ -1,0 +1,31 @@
+.heading{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+display: inline;
+}
+.heading button{
+float: right;
+border: 1px solid aquamarine;
+}
+h4{
+background-color: blanchedalmond;
+line-height: 2;
+margin: 0px;
+}
+.modal-dialog{
+width: 70%;
+}
+.modal-body{
+text-align: left;
+font-size: 20px;
+}
+#restart , #start , #status{
+font-size: 22px;
+}
+canvas{
+border: 3px solid red;
+border-radius: 30px;
+box-shadow: 10px 5px 6px limegreen;
+}
